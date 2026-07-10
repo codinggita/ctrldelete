@@ -506,7 +506,6 @@ const SettingsPage = ({ initialTab = 'profile' }) => {
     { id: 'profile', label: 'Profile', icon: User },
     { id: 'general', label: 'General Settings', icon: Settings },
     { id: 'security', label: 'Security', icon: Shield },
-    { id: 'api', label: 'API Management', icon: Code },
   ];
 
 
